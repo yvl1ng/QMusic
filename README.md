@@ -6,7 +6,7 @@
 3. 点击列表内的音乐进行播放
 4. 播放控制（播放、暂停、进度条拖动）
 
-项目开源于https://github.com/Fangnan700/QMusic
+项目开源于https://github.com/yvl1ng/QMusic
 
 ![image-20230630105236443](https://yvling-typora-image-1257337367.cos.ap-nanjing.myqcloud.com/typora/image-20230630105236443.png)
 
